@@ -1,5 +1,9 @@
 # About
-FORK - UPDATE PERFORCE VERSION 
+FORK - UPDATE PERFORCE VERSION AND INSTALL FOR UBUNTU 16.04 X64
+
+Changes:
+- Added sudo apt-get update before daemon
+- Changed perforce download file to latest release
 
 This script will install Perforce Server on a 64-bit linux host. It has only been tested on Ubuntu so far. If you are looking for an Ubuntu host, I recommend the $20/month tier at [DigitalOcean](https://www.digitalocean.com/?refcode=070b959bc226).
 
